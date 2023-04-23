@@ -43,7 +43,7 @@ module.exports = (config, { strapi }) => {
           strapi.log.error("throttled limit exceeded...");
           ctx.response.status = 429;
           ctx.response.body = {
-            error: 1,
+            error: "Unable to process request",
             message: "throttled limit exceeded...",
           };
           return;
