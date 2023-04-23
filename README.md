@@ -1,6 +1,10 @@
-# 🚀 Getting started with Strapi
+# 🚀 Blog-API
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
+
+> A Strapi API to test request throttling.
+
+
+For the Strapi Command Line Interface, observe [here](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html)
 
 ### `develop`
 
@@ -53,5 +57,3 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 - [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
 
 ---
-
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
